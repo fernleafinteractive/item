@@ -341,7 +341,7 @@ $.widget("fernleaf.item", {
 						display: true,
 						scaleLabel: {
 							display: true,
-							labelString: 'Exceedance'
+							labelString: 'Events per Year Above Threshold'
 						}, ticks: {
 							beginAtZero: true
 						}
