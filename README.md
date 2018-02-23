@@ -2,6 +2,8 @@
 
 This widget displays threshold exceedance over time for weather stations. Note that threshold exceedance analysis is sensitive to gaps/missing data in weather station history.
 
+## Powered by ACIS
+This module relies on the dataservices provided by the [Applied Climate Information System (ACIS)](http://www.rcc-acis.org/index.html).
 
 ## Usage
 1. Load dependencies using the versions shown below:
